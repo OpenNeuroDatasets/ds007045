@@ -26,5 +26,7 @@
     ],
     "DatasetDOI": "NA",
     "License": "CC0",
-    "EthicsApprovals": []
+    "EthicsApprovals": [
+        "The study complied with all relevant regulations and with the principles of the Declaration of Helsinki. Formal ethical committee approval for anonymized data collection and publication was obtained at the University of Foggia and approved by all participating centers (46-CE-2023). "
+    ]
 }
