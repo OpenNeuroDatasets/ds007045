@@ -9,3 +9,14 @@ In each case, sub-XXX_run-01_T1w.nii.gz file represents pre-contrast T1-WI, and 
 Derivatives/processing/sub-000 includes preprocessed structural images, such as skull-stripped T1-WI, T2-WI, and FLAIR scans registered to the MNI152 standard space.
 Derivatives/segmentation/sub-*** contains the tumor segmentation masks, which correspond spatially to the preprocessed images.
 Molecular data, including MGMT promoter methylation status obtained via methylation-specific PCR, and demographic information for each participant are available in the "participants.tsv" file.
+
+List of centers participating in dataset collection and preparation:
+
+•	Department of Biomedical and Neuromotor Sciences (DIBINEM), Bologna, Italy (site code = BO, 172 cases)
+•	Städtisches Klinikum Karlsruhe, Karlsruhe, Germany (site code = KA, 80 cases)
+•	Federal Neurosurgery Center, Novosibirsk, Russia (site code = NSK, 41 cases)
+•	“San Paolo” Hospital, Bari, Italy (site code = BA, 3 cases)
+•	Policlinico “Riuniti” Foggia, Foggia, Italy (site code = FO, 9 cases)
+•	Hospital Joan XXIII, Tarragona, Spain (site code = JS, 12 cases)
+•	Department of Neurosurgery, University of Turin, Turin, Italy (site code = TO, 14 cases)
+•	Neurosurgery Unit, University Hospital “G. Martino”, Messina, Italy (site code = ME, 7 cases)
