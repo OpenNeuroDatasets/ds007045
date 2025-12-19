@@ -7,7 +7,13 @@ Raw MRI data are provided for 337 patients, organized in BIDS folders labeled su
 In each case, sub-XXX_run-01_T1w.nii.gz file represents pre-contrast T1-WI, and sub-XXX_run-02_T1w.nii.gz - T1-WI series obtained after Gd injection.
 
 Derivatives/processing/sub-000 includes preprocessed structural images, such as skull-stripped T1-WI, T2-WI, and FLAIR scans registered to the MNI152 standard space.
+
+Derivatives/processing_MNI152_skull-stripped_N4/sub-000 contains preprocessed structural MRI data (all modalities), skull-stripped and registered to the MNI152 template, with intensity non-uniformity correction performed using N4 bias field correction (AFNI).
+
+Derivatives/processing_MNI152_skull-stripped_N4_z-scored/sub-000 includes preprocessed structural MRI data (all modalities), skull-stripped and registered to the MNI152 template, with N4 bias field correction (AFNI) followed by z-score intensity normalization (FSL). This directory represents the fully normalized, radiomics-ready variant of the dataset. 
+
 Derivatives/segmentation/sub-*** contains the tumor segmentation masks, which correspond spatially to the preprocessed images.
+
 Molecular data, including MGMT promoter methylation status obtained via methylation-specific PCR, and demographic information for each participant are available in the "participants.tsv" file.
 
 List of centers participating in dataset collection and preparation:
