@@ -3,7 +3,84 @@ sub-BA2	1	74	0	1,5	Philips Achieva
 sub-BA3	1	57	1	1,5	GE Signa HDxt
 sub-BA4	1	52	1	1,5	Philips Achieva
 sub-BO1	1	55	1	1,5	Siemens Magnetom Essenza
+sub-BO2	1	63	1	3	Siemens Skyra
+sub-BO4	1	59	0	3	Siemens Skyra
+sub-BO5	0	69	1	3	Siemens Skyra
+sub-BO6	0	63	0	1,5	Siemens Magnetom Aera
+sub-BO7	1	53	1	1,5	Philips Achieva
+sub-BO8	1	68	1	3	Siemens Skyra
+sub-BO9	1	53	1	3	Siemens Skyra
 sub-BO10	1	51	0	3	Siemens Skyra
+sub-BO11	0	61	0	3	Siemens Skyra
+sub-BO14	0	55	1	3	Siemens Skyra
+sub-BO15	1	66	1	3	Siemens Skyra
+sub-BO16	1	61	1	3	GE Signa HDxt
+sub-BO17	1	45	0	3	Siemens Skyra
+sub-BO18	1	29	0	3	Siemens Skyra
+sub-BO19	1	43	1	3	Siemens Skyra
+sub-BO20	0	60	1	3	Siemens Skyra
+sub-BO21	1	46	0	1,5	Siemens Magnetom Aera
+sub-BO22	1	71	1	1,5	Philips Achieva
+sub-BO23	0	69	1	1,5	Siemens Magnetom Aera
+sub-BO25	1	69	0	3	Siemens Skyra
+sub-BO27	1	57	0	3	Siemens Skyra
+sub-BO28	0	72	1	1,5	Siemens Magnetom Aera
+sub-BO29	1	52	1	3	Siemens Skyra
+sub-BO30	0	68	1	1,5	Siemens Magnetom Aera
+sub-BO31	0	48	1	3	Siemens Skyra
+sub-BO32	0	68	0	3	Siemens Skyra
+sub-BO34	1	30	1	3	Siemens Skyra
+sub-BO36	0	53	0	3	Siemens Skyra
+sub-BO37	1	52	0	3	Siemens Skyra
+sub-BO38	1	66	0	1,5	GE Signa Genesis
+sub-BO39	0	73	0	1,5	Siemens Magnetom Aera
+sub-BO41	0	68	0	3	GE Signa HDxt
+sub-BO43	1	77	1	3	Siemens Skyra
+sub-BO44	0	75	1	3	Siemens Skyra
+sub-BO45	1	75	1	3	Siemens Skyra
+sub-BO46	1	52	0	3	Siemens Skyra
+sub-BO47	1	65	0	1,5	Siemens Magnetom Aera
+sub-BO50	0	60	1	1,5	Philips Achieva
+sub-BO51	0	69	0	3	Siemens Skyra
+sub-BO53	1	52	1	3	Siemens Skyra
+sub-BO54	0	70	0	3	Siemens Skyra
+sub-BO55	1	66	1	3	Siemens Skyra
+sub-BO56	0	70	0	3	Siemens Skyra
+sub-BO57	0	56	1	3	Siemens Skyra
+sub-BO58	1	67	0	3	Siemens Skyra
+sub-BO59	1	77	0	3	Siemens Skyra
+sub-BO60	0	52	0	3	Siemens Skyra
+sub-BO61	1	71	0	1,5	Philips Achieva
+sub-BO62	1	59	0	3	Siemens Skyra
+sub-BO65	0	78	1	1,5	Philips Achieva
+sub-BO66	1	59	0	1,5	Philips Achieva
+sub-BO67	0	71	1	1,5	GE Signa Explorer
+sub-BO68	1	53	1	1,5	Philips Achieva
+sub-BO69	0	58	1	3	Siemens Skyra
+sub-BO70	0	58	0	1,5	Siemens Magnetom Aera
+sub-BO71	1	78	0	1,5	Philips Achieva
+sub-BO72	0	46	0	3	Siemens Skyra
+sub-BO73	1	56	0	3	Siemens Skyra
+sub-BO76	1	44	0	3	Siemens Skyra
+sub-BO77	0	48	1	3	Siemens Skyra
+sub-BO79	1	77	0	3	Siemens Skyra
+sub-BO80	1	67	0	1,5	Philips Achieva
+sub-BO81	0	69	1	1,5	Siemens Magnetom Aera
+sub-BO82	1	47	1	3	Siemens Skyra
+sub-BO84	1	50	1	3	Siemens Skyra
+sub-BO85	0	57	1	3	Siemens Skyra
+sub-BO86	0	72	1	3	Siemens Skyra
+sub-BO87	1	43	0	3	Siemens Skyra
+sub-BO88	1	69	1	3	Siemens Skyra
+sub-BO89	1	60	0	3	Siemens Skyra
+sub-BO90	0	52	1	3	Siemens Skyra
+sub-BO91	1	47	0	1,5	Siemens Magnetom Aera
+sub-BO92	0	53	0	3	Siemens Skyra
+sub-BO93	0	65	1	3	Siemens Skyra
+sub-BO94	1	67	0	3	Siemens Skyra
+sub-BO95	1	62	0	3	Siemens Skyra
+sub-BO97	1	67	0	1,5	GE Signa Excite
+sub-BO99	1	75	1	1,5	Siemens Magnetom Aera
 sub-BO100	1	66	0	3	Siemens Skyra
 sub-BO101	1	54	0	1,5	Philips Achieva
 sub-BO102	1	68	0	3	Siemens Skyra
@@ -13,7 +90,6 @@ sub-BO106	1	78	1	3	GE Signa HDxt
 sub-BO107	1	76	1	3	Siemens Skyra
 sub-BO108	1	68	1	3	Siemens Skyra
 sub-BO109	1	75	0	1,5	Siemens Magnetom Aera
-sub-BO11	0	61	0	3	Siemens Skyra
 sub-BO110	1	58	0	3	Siemens Skyra
 sub-BO112	0	49	0	3	Siemens Skyra
 sub-BO114	0	69	1	1,5	Siemens Magnetom Aera
@@ -41,7 +117,6 @@ sub-BO136	0	78	1	1,5	Siemens Magnetom Aera
 sub-BO137	1	72	0	3	Siemens Skyra
 sub-BO138	0	75	1	3	Siemens Skyra
 sub-BO139	0	56	1	3	Siemens Skyra
-sub-BO14	0	55	1	3	Siemens Skyra
 sub-BO140	1	53	1	3	Siemens Skyra
 sub-BO141	1	67	1	1,5	Siemens Magnetom Aera
 sub-BO143	0	73	1	3	Siemens Skyra
@@ -50,7 +125,6 @@ sub-BO145	1	74	1	3	Siemens Skyra
 sub-BO146	1	63	0	1,5	Siemens Magnetom Aera
 sub-BO148	1	43	1	3	Siemens Skyra
 sub-BO149	1	44	1	3	Siemens Skyra
-sub-BO15	1	66	1	3	Siemens Skyra
 sub-BO150	1	43	1	3	Siemens Skyra
 sub-BO152	1	49	1	3	Siemens Skyra
 sub-BO153	1	71	1	1,5	Siemens Magnetom Aera
@@ -60,7 +134,6 @@ sub-BO156	1	51	0	1,5	Siemens Magnetom Aera
 sub-BO157	1	69	1	3	Siemens Skyra
 sub-BO158	1	53	1	3	Siemens Skyra
 sub-BO159	0	61	1	1,5	Siemens Magnetom Aera
-sub-BO16	1	61	1	3	GE Signa HDxt
 sub-BO160	1	62	1	1,5	Siemens Magnetom Aera
 sub-BO161	1	56	0	3	Siemens Skyra
 sub-BO162	1	62	0	1,5	Siemens Magnetom Aera
@@ -71,7 +144,6 @@ sub-BO166	1	49	0	3	Siemens Skyra
 sub-BO167	1	61	0	1,5	Siemens Magnetom Aera
 sub-BO168	0	61	1	3	Siemens Skyra
 sub-BO169	1	64	1	3	Siemens Skyra
-sub-BO17	1	45	0	3	Siemens Skyra
 sub-BO170	1	63	1	3	Siemens Skyra
 sub-BO171	1	73	1	1,5	Siemens Magnetom Aera
 sub-BO172	0	67	1	3	Siemens Skyra
@@ -82,7 +154,6 @@ sub-BO176	0	46	0	3	Siemens Skyra
 sub-BO177	1	52	0	1,5	Philips Achieva
 sub-BO178	0	78	0	1,5	Philips Ingenia
 sub-BO179	1	72	1	3	Siemens Skyra
-sub-BO18	1	29	0	3	Siemens Skyra
 sub-BO180	1	52	0	3	Siemens Skyra
 sub-BO181	0	47	0	3	Siemens Skyra
 sub-BO183	1	52	0	3	Siemens Skyra
@@ -91,7 +162,6 @@ sub-BO185	1	66	0	1,5	Philips Ingenia
 sub-BO186	0	63	0	3	Siemens Skyra
 sub-BO187	1	52	1	3	Siemens Skyra
 sub-BO188	1	57	1	3	Siemens Skyra
-sub-BO19	1	43	1	3	Siemens Skyra
 sub-BO190	0	46	1	1,5	GE Signa Voyager
 sub-BO191	1	48	0	1,5	Siemens Magnetom Aera
 sub-BO192	0	58	0	1,5	GE Signa Voyager
@@ -101,79 +171,8 @@ sub-BO195	0	57	1	3	Siemens Skyra
 sub-BO196	0	57	1	3	Siemens Skyra
 sub-BO197	0	53	0	3	Siemens Skyra
 sub-BO198	1	70	0	3	Siemens Skyra
-sub-BO199	1	62	1	3	Siemens Skyra
-sub-BO2	1	63	1	3	Siemens Skyra
-sub-BO20	0	60	1	3	Siemens Skyra
 sub-BO200	0	62	0	3	Siemens Skyra
 sub-BO203	1	76	0	1,5	Siemens Magnetom Aera
-sub-BO21	1	46	0	1,5	Siemens Magnetom Aera
-sub-BO22	1	71	1	1,5	Philips Achieva
-sub-BO23	0	69	1	1,5	Siemens Magnetom Aera
-sub-BO25	1	69	0	3	Siemens Skyra
-sub-BO27	1	57	0	3	Siemens Skyra
-sub-BO28	0	72	1	1,5	Siemens Magnetom Aera
-sub-BO29	1	52	1	3	Siemens Skyra
-sub-BO30	0	68	1	1,5	Siemens Magnetom Aera
-sub-BO31	0	48	1	3	Siemens Skyra
-sub-BO32	0	68	0	3	Siemens Skyra
-sub-BO34	1	30	1	3	Siemens Skyra
-sub-BO36	0	53	0	3	Siemens Skyra
-sub-BO37	1	52	0	3	Siemens Skyra
-sub-BO38	1	66	0	1,5	GE Signa Genesis
-sub-BO39	0	73	0	1,5	Siemens Magnetom Aera
-sub-BO4	1	59	0	3	Siemens Skyra
-sub-BO41	0	68	0	3	GE Signa HDxt
-sub-BO43	1	77	1	3	Siemens Skyra
-sub-BO44	0	75	1	3	Siemens Skyra
-sub-BO45	1	75	1	3	Siemens Skyra
-sub-BO46	1	52	0	3	Siemens Skyra
-sub-BO47	1	65	0	1,5	Siemens Magnetom Aera
-sub-BO5	0	69	1	3	Siemens Skyra
-sub-BO50	0	60	1	1,5	Philips Achieva
-sub-BO51	0	69	0	3	Siemens Skyra
-sub-BO53	1	52	1	3	Siemens Skyra
-sub-BO54	0	70	0	3	Siemens Skyra
-sub-BO55	1	66	1	3	Siemens Skyra
-sub-BO56	0	70	0	3	Siemens Skyra
-sub-BO57	0	56	1	3	Siemens Skyra
-sub-BO58	1	67	0	3	Siemens Skyra
-sub-BO59	1	77	0	3	Siemens Skyra
-sub-BO6	0	63	0	1,5	Siemens Magnetom Aera
-sub-BO60	0	52	0	3	Siemens Skyra
-sub-BO61	1	71	0	1,5	Philips Achieva
-sub-BO62	1	59	0	3	Siemens Skyra
-sub-BO65	0	78	1	1,5	Philips Achieva
-sub-BO66	1	59	0	1,5	Philips Achieva
-sub-BO67	0	71	1	1,5	GE Signa Explorer
-sub-BO68	1	53	1	1,5	Philips Achieva
-sub-BO69	0	58	1	3	Siemens Skyra
-sub-BO7	1	53	1	1,5	Philips Achieva
-sub-BO70	0	58	0	1,5	Siemens Magnetom Aera
-sub-BO71	1	78	0	1,5	Philips Achieva
-sub-BO72	0	46	0	3	Siemens Skyra
-sub-BO73	1	56	0	3	Siemens Skyra
-sub-BO76	1	44	0	3	Siemens Skyra
-sub-BO77	0	48	1	3	Siemens Skyra
-sub-BO79	1	77	0	3	Siemens Skyra
-sub-BO8	1	68	1	3	Siemens Skyra
-sub-BO80	1	67	0	1,5	Philips Achieva
-sub-BO81	0	69	1	1,5	Siemens Magnetom Aera
-sub-BO82	1	47	1	3	Siemens Skyra
-sub-BO84	1	50	1	3	Siemens Skyra
-sub-BO85	0	57	1	3	Siemens Skyra
-sub-BO86	0	72	1	3	Siemens Skyra
-sub-BO87	1	43	0	3	Siemens Skyra
-sub-BO88	1	69	1	3	Siemens Skyra
-sub-BO89	1	60	0	3	Siemens Skyra
-sub-BO9	1	53	1	3	Siemens Skyra
-sub-BO90	0	52	1	3	Siemens Skyra
-sub-BO91	1	47	0	1,5	Siemens Magnetom Aera
-sub-BO92	0	53	0	3	Siemens Skyra
-sub-BO93	0	65	1	3	Siemens Skyra
-sub-BO94	1	67	0	3	Siemens Skyra
-sub-BO95	1	62	0	3	Siemens Skyra
-sub-BO97	1	67	0	1,5	GE Signa Excite
-sub-BO99	1	75	1	1,5	Siemens Magnetom Aera
 sub-FO01	0	36	1	1,5	Philips Ingenia
 sub-FO02	0	71	0	1,5	Philips Achieva
 sub-FO05	1	61	1	3	Siemens Skyra
@@ -181,7 +180,6 @@ sub-FO06	1	86	0	3	Siemens Skyra
 sub-FO08	0	65	0	1,5	Philips Achieva dStream
 sub-FO09	1	63	0	1,5	Philips Achieva dStream
 sub-FO10	1	46	0	1,5	Philips Achieva dStream
-sub-FO13	1	63	1	1,5	Philips Achieva
 sub-FO14	1	65	1	1,5	Philips Achieva dStream
 sub-JS02	0	69	1	1,5	GE Signa
 sub-JS04	1	72	0	1,5	GE Signa
@@ -201,11 +199,6 @@ sub-KA05	0	53	1	3	Siemens Magnetom Vida
 sub-KA06	1	70	0	1,5	Siemens Magnetom Avanto
 sub-KA07	1	62	0	3	Siemens Magnetom Vida
 sub-KA08	1	64	1	1,5	Siemens Magnetom Avanto
-sub-KA101	0	63	1	3	Siemens Magnetom Vida
-sub-KA102	1	52	1	3	Siemens Magnetom Vida
-sub-KA105	0	54	0	3	Siemens Magnetom Vida
-sub-KA106	1	73	1	3	Siemens Magnetom Vida
-sub-KA107	1	77	1	3	Siemens Magnetom Vida
 sub-KA12	1	49	0	1,5	Siemens Magnetom Aera
 sub-KA13	1	57	0	3	Siemens Magnetom Vida
 sub-KA14	0	39	0	3	Siemens Magnetom Vida
@@ -247,7 +240,7 @@ sub-KA57	0	56	0	3	Siemens Magnetom Vida
 sub-KA60	0	85	1	1,5	Siemens Magnetom Aera
 sub-KA62	0	69	0	3	Siemens Magnetom Vida
 sub-KA63	0	63	0	3	Siemens Magnetom Vida
-sub-KA64	1	64	0	3	Siemens Magnetom Vida
+sub-KA64	1	59	0	1,5	Philips Achieva dStream
 sub-KA65	1	74	0	3	Siemens Magnetom Vida
 sub-KA66	0	74	0	3	Siemens Magnetom Vida
 sub-KA67	1	73	0	3	Siemens Magnetom Vida
@@ -255,10 +248,8 @@ sub-KA68	0	80	0	1,5	Siemens Magnetom Avanto
 sub-KA69	1	77	1	3	Siemens Magnetom Vida
 sub-KA70	0	55	0	1,5	Siemens Magnetom Avanto
 sub-KA71	1	71	1	1,5	Siemens Magnetom Amira
-sub-KA72	0	45	0	3	Siemens Magnetom Vida
 sub-KA73	1	54	0	1,5	Siemens Magnetom Avanto
 sub-KA74	1	78	0	3	Siemens Magnetom Vida
-sub-KA75	0	78	0	3	Siemens Magnetom Vida
 sub-KA77	1	60	0	1,5	Siemens Magnetom Amira
 sub-KA78	1	43	0	3	Siemens Magnetom Vida
 sub-KA79	0	52	0	1,5	Siemens Magnetom Espree
@@ -274,6 +265,43 @@ sub-KA91	1	58	0	3	Siemens Magnetom Vida
 sub-KA92	1	83	0	3	Siemens Magnetom Vida
 sub-KA95	1	83	0	3	Siemens Magnetom Vida
 sub-KA96	0	81	1	3	Siemens Magnetom Vida
+sub-KA101	0	63	1	3	Siemens Magnetom Vida
+sub-KA102	1	52	1	3	Siemens Magnetom Vida
+sub-KA103	0	35	0	3	Siemens MAGNETOM Vida
+sub-KA105	0	54	0	3	Siemens Magnetom Vida
+sub-KA106	1	73	1	3	Siemens Magnetom Vida
+sub-KA107	1	77	1	3	Siemens Magnetom Vida
+sub-KA117	1	85	1	3	Siemens MAGNETOM Vida
+sub-KA119	1	55	0	3	Siemens MAGNETOM Vida
+sub-KA120	0	63	0	3	Siemens MAGNETOM Vida
+sub-KA122	1	69	0	1,5	Siemens Avanto
+sub-KA123	0	73	1	3	Siemens MAGNETOM Vida
+sub-KA124	1	62	1	3	Siemens MAGNETOM Vida
+sub-KA125	0	49	1	3	Siemens MAGNETOM Vida
+sub-KA126	0	79	0	1,5	Siemens Espree
+sub-KA127	0	87	1	3	Siemens MAGNETOM Vida
+sub-KA128	1	67	1	3	Siemens MAGNETOM Vida
+sub-KA130	1	67	1	1,5	Siemens MAGNETOM Aera
+sub-KA131	0	72	1	3	Siemens MAGNETOM Vida
+sub-KA132	0	63	0	3	Siemens MAGNETOM Vida
+sub-KA133	0	84	1	3	Siemens MAGNETOM Vida
+sub-KA134	1	67	0	3	Siemens MAGNETOM Vida
+sub-KA135	0	59	1	3	Siemens MAGNETOM Vida
+sub-KA136	0	82	1	3	Siemens MAGNETOM Vida
+sub-KA138	1	73	0	3	Siemens MAGNETOM Vida
+sub-KA139	0	71	1	1,5	Siemens Espree
+sub-KA141	1	64	0	3	Siemens MAGNETOM Vida
+sub-KA142	1	31	0	3	Siemens MAGNETOM Vida
+sub-KA143	1	72	0	3	Siemens MAGNETOM Vida
+sub-KA144	1	75	0	3	Siemens MAGNETOM Vida
+sub-KA145	0	66	1	3	Siemens MAGNETOM Vida
+sub-KA146	1	57	1	3	Siemens MAGNETOM Vida
+sub-KA147	0	79	0	3	Siemens MAGNETOM Vida
+sub-KA148	1	89	1	3	Siemens MAGNETOM Vida
+sub-KA149	1	51	0	3	Siemens MAGNETOM Vida
+sub-KA150	1	53	1	1,5	Siemens Avanto
+sub-KA151	1	82	0	1,5	Siemens Avanto
+sub-KA152	1	55	0	3	Siemens MAGNETOM Vida
 sub-ME1	1	62	0	1,5	Philips Ingenia Elition
 sub-ME2	0	62	0	1,5	Philips Ingenia Elition
 sub-ME3	1	71	0	1,5	Philips Ingenia Elition
@@ -305,7 +333,6 @@ sub-NSK31	1	44	0	3	Philips Ingenia Elition
 sub-NSK32	0	61	0	3	Philips Ingenia Elition
 sub-NSK34	0	64	0	3	Philips Ingenia Elition
 sub-NSK37	0	36	0	3	Philips Ingenia Elition
-sub-NSK38	1	57	0	3	Philips Ingenia Elition
 sub-NSK39	0	64	1	3	Philips Ingenia Elition
 sub-NSK41	0	67	1	3	Philips Ingenia Elition
 sub-NSK43	1	77	1	3	Philips Ingenia Elition
@@ -316,7 +343,6 @@ sub-NSK48	1	64	0	3	Philips Ingenia Elition
 sub-NSK50	1	64	1	3	Philips Ingenia Elition
 sub-NSK51	1	49	0	3	Philips Ingenia Elition
 sub-NSK52	0	60	1	3	Philips Ingenia Elition
-sub-NSK54	0	43	1	3	Philips Ingenia Elition
 sub-NSK55	1	64	0	3	Philips Ingenia Elition
 sub-NSK58	1	68	0	3	Philips Ingenia Elition
 sub-NSK59	1	66	0	3	Philips Ingenia Elition
