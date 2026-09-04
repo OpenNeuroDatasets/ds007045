@@ -1,3 +1,5 @@
+2.0.1 2026-09-04
+  - minor changes in derivatives folder
 2.0.0 2026-09-04
   - Cohort updated from 337 to 363 subjects. - Added 32 Karlsruhe subjects: KA103, KA117, KA119–KA128, KA130–KA136, KA138–KA152. - Removed BO199 (no tumor); KA72, KA75, FO13, NSK38, NSK54 (duplicates). - Replaced sub-KA64 (v1 file duplicated sub-KA65). - Added processing derivatives for sub-BO97; verified mask for sub-NSK07. - Updated participants.tsv and site counts: BO 171, KA 110, NSK 39, FO 8, JS 11, TO 14, ME 7, BA 3.
 1.0.2 2026-09-04
